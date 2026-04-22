@@ -1,0 +1,39 @@
+# ---------- ENV ----------
+.env
+.env.*
+
+# ---------- Python ----------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# ---------- Virtual Env ----------
+venv/
+env/
+.venv/
+
+# ---------- Logs ----------
+*.log
+
+# ---------- OS ----------
+.DS_Store
+Thumbs.db
+
+# ---------- Node / Next.js ----------
+node_modules/
+.next/
+out/
+dist/
+
+# ---------- Build ----------
+build/
+
+# ---------- Misc ----------
+*.tmp
+*.bak
+
+# ---------- Chroma (if any accidentally created) ----------
+chroma_db/
