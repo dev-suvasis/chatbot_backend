@@ -4,3 +4,4 @@ Machine Learning is a subset of AI that allows systems to learn from data.
 
 Deep Learning is a type of Machine Learning based on neural networks.
 
+FastAPI is a modern Python web framework.
